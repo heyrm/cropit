@@ -1,3 +1,10 @@
+#README
+
+A backup version of cropit taken from [scottcheng](https://github.com/scottcheng/cropit) 
+
+***
+
+
 # cropit
 
 Customizable crop and zoom.
